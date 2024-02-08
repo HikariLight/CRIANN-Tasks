@@ -1,0 +1,4 @@
+transformers[torch]
+datasets
+accelerate -U
+huggingface_hub

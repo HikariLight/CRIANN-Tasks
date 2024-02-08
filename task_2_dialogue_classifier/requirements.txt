@@ -1,0 +1,5 @@
+datasets
+evaluate
+peft
+transformers[torch]
+scikit-learn
